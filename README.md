@@ -1,2 +1,2 @@
 # BIS
-My master thesis code
+The code for my master thesis about Ball Inheritance Structure.
